@@ -31,7 +31,7 @@ st.set_page_config(
 
 
 """
-# Seattle Weather
+# Terengganu Weather
 
 Let's explore the [classic Seattle Weather
 dataset](https://altair-viz.github.io/case_studies/exploring-weather.html)!
